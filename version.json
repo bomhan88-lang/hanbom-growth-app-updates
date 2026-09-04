@@ -1,0 +1,9 @@
+{
+  "version": "2.3.134",
+  "releaseDate": "2026-09-04",
+  "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.134/HanbomGrowth-Setup-2.3.134.exe",
+  "sha256": "208ea35bb2fd0e1672bf2e0a8838f20680ece6405da7f9a64e305fcaa345109c",
+  "installerSha256": "84275d6b95a4dbdd593cd25d91cd2d34aa0d4b4f5a77799e50a52be68e9d2673",
+  "releaseNotes": "Windows 설치본 공개 및 메인 한봄 운영 연결"
+}
