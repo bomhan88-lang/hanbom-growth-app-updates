@@ -1,9 +1,9 @@
 {
-  "version": "2.3.135",
-  "releaseDate": "2026-09-05",
+  "version": "2.3.136",
+  "releaseDate": "2026-09-07",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.135/HanbomGrowth-Setup-2.3.135.exe",
-  "sha256": "4c96ffc1df9fa15a6f2bcc236f287eb916f570762d314d748fd1c617574cd0aa",
-  "installerSha256": "fc8216cc54f1988ad557dcca9878ebe830690aaf6ce03a749313ad743833a95e",
-  "releaseNotes": "예약수집 운영 연결 및 자동 업데이트 활성화"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.136/HanbomGrowth-Setup-2.3.136.exe",
+  "sha256": "99c0706026b8e193824d94fabc615025c56149069b87bf1296bda33ff6a48934",
+  "installerSha256": "7991ea0a65be161029057720d90122ebc23f4ec132d20bfbe27a776d1f8155ad",
+  "releaseNotes": "광고 캠페인 전체선택, 일별 매출 기간·합계, 대용량 상품 조회 안정화"
 }
