@@ -1,9 +1,9 @@
 {
-  "version": "2.3.136",
-  "releaseDate": "2026-09-07",
+  "version": "2.3.137",
+  "releaseDate": "2026-09-08",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.136/HanbomGrowth-Setup-2.3.136.exe",
-  "sha256": "99c0706026b8e193824d94fabc615025c56149069b87bf1296bda33ff6a48934",
-  "installerSha256": "7991ea0a65be161029057720d90122ebc23f4ec132d20bfbe27a776d1f8155ad",
-  "releaseNotes": "광고 캠페인 전체선택, 일별 매출 기간·합계, 대용량 상품 조회 안정화"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.137/HanbomGrowth-Setup-2.3.137.exe",
+  "sha256": "88f4eb8bdb2cc88a5c7bea5ea9910207565151b95ede0ad6906e54ff48884a35",
+  "installerSha256": "fdfc51887ac842d0f102db7fe896c35ca190b5e191223951fd623acd2c4ffad1",
+  "releaseNotes": "Windows 업데이트 반복 실행 수정: 전체 설치파일 검증·자동 교체 및 구형 pending-update 정리"
 }
