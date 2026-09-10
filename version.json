@@ -1,9 +1,9 @@
 {
-  "version": "2.3.137",
-  "releaseDate": "2026-09-08",
+  "version": "2.3.138",
+  "releaseDate": "2026-09-11",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.137/HanbomGrowth-Setup-2.3.137.exe",
-  "sha256": "88f4eb8bdb2cc88a5c7bea5ea9910207565151b95ede0ad6906e54ff48884a35",
-  "installerSha256": "fdfc51887ac842d0f102db7fe896c35ca190b5e191223951fd623acd2c4ffad1",
-  "releaseNotes": "Windows 업데이트 반복 실행 수정: 전체 설치파일 검증·자동 교체 및 구형 pending-update 정리"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.138/HanbomGrowth-Setup-2.3.138.exe",
+  "sha256": "30424c0541e8b6c975701b55dc780d8cd1533c78f4a0709969338722f71367b0",
+  "installerSha256": "02aeddb1e8be2a4f1d52bef3821f89030544fbe9cf9ae4328e1775484227de8b",
+  "releaseNotes": "대용량 수집 전송 자동 재시도 및 중복 방지, 예약수집 누락 원본만 재수집, 광고 0건·캠페인 선택 처리와 저장 건수 표시 개선"
 }
