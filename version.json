@@ -1,9 +1,9 @@
 {
-  "version": "2.3.139",
+  "version": "2.3.140",
   "releaseDate": "2026-09-11",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.139/HanbomGrowth-Setup-2.3.139.exe",
-  "sha256": "edc0949c0ab05d624cccacf6f418670c3da90e0d6c2c0cd62310ac7ade77c47e",
-  "installerSha256": "f2177cc7afce9d5f323f717751068ff9cdac0dd001302b3554e89ee88e79bcf8",
-  "releaseNotes": "정산 입고비·출고비 수집, 잘못된 리포트 검증, 대용량 저장 및 보안 안정화"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.140/HanbomGrowth-Setup-2.3.140.exe",
+  "sha256": "d0e2599e8dedde82e0678e6979ad56b4ba7467e70dcf070b8a78278cdf53aeae",
+  "installerSha256": "4de551556edfd7139fe463916c57578851d359b4b150743f441b994f8b3eafe6",
+  "releaseNotes": "업데이트 실패 후 재시도 복구, 설정의 수동 업데이트 확인·오류 표시·로그 복사, 수집 중 설치 방지"
 }
