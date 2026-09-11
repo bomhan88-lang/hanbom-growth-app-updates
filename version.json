@@ -1,9 +1,9 @@
 {
-  "version": "2.3.138",
+  "version": "2.3.139",
   "releaseDate": "2026-09-11",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.138/HanbomGrowth-Setup-2.3.138.exe",
-  "sha256": "30424c0541e8b6c975701b55dc780d8cd1533c78f4a0709969338722f71367b0",
-  "installerSha256": "02aeddb1e8be2a4f1d52bef3821f89030544fbe9cf9ae4328e1775484227de8b",
-  "releaseNotes": "대용량 수집 전송 자동 재시도 및 중복 방지, 예약수집 누락 원본만 재수집, 광고 0건·캠페인 선택 처리와 저장 건수 표시 개선"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.139/HanbomGrowth-Setup-2.3.139.exe",
+  "sha256": "edc0949c0ab05d624cccacf6f418670c3da90e0d6c2c0cd62310ac7ade77c47e",
+  "installerSha256": "f2177cc7afce9d5f323f717751068ff9cdac0dd001302b3554e89ee88e79bcf8",
+  "releaseNotes": "정산 입고비·출고비 수집, 잘못된 리포트 검증, 대용량 저장 및 보안 안정화"
 }
