@@ -1,9 +1,9 @@
 {
-  "version": "2.3.140",
-  "releaseDate": "2026-09-11",
+  "version": "2.3.141",
+  "releaseDate": "2026-09-12",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.140/HanbomGrowth-Setup-2.3.140.exe",
-  "sha256": "d0e2599e8dedde82e0678e6979ad56b4ba7467e70dcf070b8a78278cdf53aeae",
-  "installerSha256": "4de551556edfd7139fe463916c57578851d359b4b150743f441b994f8b3eafe6",
-  "releaseNotes": "업데이트 실패 후 재시도 복구, 설정의 수동 업데이트 확인·오류 표시·로그 복사, 수집 중 설치 방지"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.141/HanbomGrowth-Setup-2.3.141.exe",
+  "sha256": "16f67fb0a8cd115fdaf97c64c147efb24d5ee01c89434cbf3ef86bf20ccd6629",
+  "installerSha256": "9dbed496faa55faa08133899593eba99efa3d1b22325e3f823906ecf5b1904e6",
+  "releaseNotes": "판매 수집 시 기존 빈 엑셀 재사용 오류 수정, 이번 다운로드 파일만 확인·복구, 0바이트·저장 중 파일 완료 오판 방지"
 }
