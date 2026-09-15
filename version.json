@@ -1,9 +1,9 @@
 {
-  "version": "2.3.141",
-  "releaseDate": "2026-09-12",
+  "version": "2.3.142",
+  "releaseDate": "2026-09-15",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.141/HanbomGrowth-Setup-2.3.141.exe",
-  "sha256": "16f67fb0a8cd115fdaf97c64c147efb24d5ee01c89434cbf3ef86bf20ccd6629",
-  "installerSha256": "9dbed496faa55faa08133899593eba99efa3d1b22325e3f823906ecf5b1904e6",
-  "releaseNotes": "판매 수집 시 기존 빈 엑셀 재사용 오류 수정, 이번 다운로드 파일만 확인·복구, 0바이트·저장 중 파일 완료 오판 방지"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.142/HanbomGrowth-Setup-2.3.142.exe",
+  "sha256": "9d5c320d76df5babf72f58b3b28beec0cd25f678d00f9702ef5e8d95a2f410f8",
+  "installerSha256": "8cf258ad110d7b708851084795a225a395371d18f454e7efff7af5bc24c86d5c",
+  "releaseNotes": "누락 재수집을 한봄 Growth API에 연결하고 사업자별 판매·광고 수집 현황 조회 및 선택 재수집을 지원합니다."
 }
