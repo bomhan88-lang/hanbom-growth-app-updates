@@ -1,9 +1,9 @@
 {
-  "version": "2.3.142",
-  "releaseDate": "2026-09-15",
+  "version": "2.3.143",
+  "releaseDate": "2026-09-19",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.142/HanbomGrowth-Setup-2.3.142.exe",
-  "sha256": "9d5c320d76df5babf72f58b3b28beec0cd25f678d00f9702ef5e8d95a2f410f8",
-  "installerSha256": "8cf258ad110d7b708851084795a225a395371d18f454e7efff7af5bc24c86d5c",
-  "releaseNotes": "누락 재수집을 한봄 Growth API에 연결하고 사업자별 판매·광고 수집 현황 조회 및 선택 재수집을 지원합니다."
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.143/HanbomGrowth-Setup-2.3.143.exe",
+  "sha256": "c46a0005946ebce11ddc36e11e80283b11a845c432ebb9c5ef30b901820f7411",
+  "installerSha256": "bec05f4a00395e709e8126d4a92b5b87b7891528061e1f6d350e560eaac3e375",
+  "releaseNotes": "Windows 설치파일 업데이트로 전환하고 ASAR 패키징 및 기존 설치 폴더의 풀린 소스 코드 정리를 적용합니다. 기존 설정은 유지합니다."
 }
