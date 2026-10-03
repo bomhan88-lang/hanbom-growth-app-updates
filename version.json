@@ -1,9 +1,9 @@
 {
-  "version": "2.3.143",
-  "releaseDate": "2026-09-19",
+  "version": "2.3.144",
+  "releaseDate": "2026-10-03",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.143/HanbomGrowth-Setup-2.3.143.exe",
-  "sha256": "c46a0005946ebce11ddc36e11e80283b11a845c432ebb9c5ef30b901820f7411",
-  "installerSha256": "bec05f4a00395e709e8126d4a92b5b87b7891528061e1f6d350e560eaac3e375",
-  "releaseNotes": "Windows 설치파일 업데이트로 전환하고 ASAR 패키징 및 기존 설치 폴더의 풀린 소스 코드 정리를 적용합니다. 기존 설정은 유지합니다."
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.144/HanbomGrowth-Setup-2.3.144.exe",
+  "sha256": "636ccf58b7558ae3e777013f8efbd7af228d763dd63a51484e464ba251fb1ead",
+  "installerSha256": "7f6d01bd69252a5f053229ed6e79850c8bec4f1e5138546cc13a4f2595c62b5c",
+  "releaseNotes": "누락 재수집 시 계정별 브라우저·광고 탭을 재사용합니다. 정산 한국시간 조회, 안내창 처리, 취소 수량 연결을 개선하고 인증·요청 제한 시 반복 요청을 중단합니다. 기존 설정과 날짜별 한봄 저장 확인은 유지합니다."
 }
