@@ -1,9 +1,9 @@
 {
-  "version": "2.3.145",
-  "releaseDate": "2026-10-10",
+  "version": "2.3.147",
+  "releaseDate": "2026-10-11",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.145/HanbomGrowth-Setup-2.3.145.exe",
-  "sha256": "e4e922482b4bb7cf9d666bc3c3fd278bf0db62281b44e17047f9d17bdf1e338c",
-  "installerSha256": "5d8bc24a72725ed64b4852673b2113ba4c4e068a9e74e81f020c4fd2a10fb917",
-  "releaseNotes": "한봄 웹 수집 요청·작업목록 실행·입고/밀크런 공통 저장 연결 및 긴 ID 보존"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.147/HanbomGrowth-Setup-2.3.147.exe",
+  "sha256": "b3244146b55da71dcbdc9ec44913e2fe5d78179a790f92e1bda10a11e1f23ac5",
+  "installerSha256": "86b340335b2ee27df0bebe7e39a0d8547fd95b5af59fc804675f6a83e69e733f",
+  "releaseNotes": "한봄 사업자별 재고·판매 승인·위너 알림 및 모니터링 저장 안정화"
 }
