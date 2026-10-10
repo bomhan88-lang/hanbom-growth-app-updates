@@ -1,9 +1,9 @@
 {
-  "version": "2.3.144",
-  "releaseDate": "2026-10-03",
+  "version": "2.3.145",
+  "releaseDate": "2026-10-10",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.144/HanbomGrowth-Setup-2.3.144.exe",
-  "sha256": "636ccf58b7558ae3e777013f8efbd7af228d763dd63a51484e464ba251fb1ead",
-  "installerSha256": "7f6d01bd69252a5f053229ed6e79850c8bec4f1e5138546cc13a4f2595c62b5c",
-  "releaseNotes": "누락 재수집 시 계정별 브라우저·광고 탭을 재사용합니다. 정산 한국시간 조회, 안내창 처리, 취소 수량 연결을 개선하고 인증·요청 제한 시 반복 요청을 중단합니다. 기존 설정과 날짜별 한봄 저장 확인은 유지합니다."
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.145/HanbomGrowth-Setup-2.3.145.exe",
+  "sha256": "e4e922482b4bb7cf9d666bc3c3fd278bf0db62281b44e17047f9d17bdf1e338c",
+  "installerSha256": "5d8bc24a72725ed64b4852673b2113ba4c4e068a9e74e81f020c4fd2a10fb917",
+  "releaseNotes": "한봄 웹 수집 요청·작업목록 실행·입고/밀크런 공통 저장 연결 및 긴 ID 보존"
 }
