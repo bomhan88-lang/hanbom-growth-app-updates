@@ -1,9 +1,9 @@
 {
-  "version": "2.3.148",
+  "version": "2.3.149",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.148/HanbomGrowth-Setup-2.3.148.exe",
-  "sha256": "d5dd787e2246c9122e20789ee7522b486a58fd16165693bc7427f6ab82e695bd",
-  "installerSha256": "8cf3a156dce464a39a43ca609001a5ccea8451bca8a85fbf2faf11d11db9c6e0",
-  "releaseNotes": "린플러스 정산 단독 비용 보존, 정산 실패 시 판매·광고 독립 저장, 판매 응답 검증 및 서버 완료 처리 안정화"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.149/HanbomGrowth-Setup-2.3.149.exe",
+  "sha256": "754cd07b5cd0b36d1bf4c2f0251320cf36ba8a19a98520671c8197433704caf7",
+  "installerSha256": "2557a6e87053cc090d7fda0948b530ac2ad1a1d6ff380db1a7dff3532c23e701",
+  "releaseNotes": "윙 판매분석의 지원금 광고 안내 및 무료체험 팝업을 자동으로 닫아 판매 엑셀 수집 중단을 방지합니다. 늦게 표시되거나 날짜별 조회 중 다시 나타나는 안내도 처리합니다."
 }
