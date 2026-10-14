@@ -1,9 +1,9 @@
 {
-  "version": "2.3.147",
-  "releaseDate": "2026-10-11",
+  "version": "2.3.148",
+  "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.147/HanbomGrowth-Setup-2.3.147.exe",
-  "sha256": "b3244146b55da71dcbdc9ec44913e2fe5d78179a790f92e1bda10a11e1f23ac5",
-  "installerSha256": "86b340335b2ee27df0bebe7e39a0d8547fd95b5af59fc804675f6a83e69e733f",
-  "releaseNotes": "한봄 사업자별 재고·판매 승인·위너 알림 및 모니터링 저장 안정화"
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.148/HanbomGrowth-Setup-2.3.148.exe",
+  "sha256": "d5dd787e2246c9122e20789ee7522b486a58fd16165693bc7427f6ab82e695bd",
+  "installerSha256": "8cf3a156dce464a39a43ca609001a5ccea8451bca8a85fbf2faf11d11db9c6e0",
+  "releaseNotes": "린플러스 정산 단독 비용 보존, 정산 실패 시 판매·광고 독립 저장, 판매 응답 검증 및 서버 완료 처리 안정화"
 }
