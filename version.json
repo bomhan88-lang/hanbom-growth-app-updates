@@ -1,9 +1,9 @@
 {
-  "version": "2.3.150",
+  "version": "2.3.152",
   "releaseDate": "2026-10-23",
   "downloadUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/latest/download/update.zip",
-  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.150/HanbomGrowth-Setup-2.3.150.exe",
-  "sha256": "13078b995a1157a7a771c3ac79e18a74414d3afbbc01314a87641c48482246ca",
-  "installerSha256": "dbc4e2ebbf8c5868450422316f29748934de4c9f939d0af4e200cde4b04ac557",
-  "releaseNotes": "판매 엑셀 다운로드 대기 오류 수정. 엑셀 버튼 위치 이동, 팝업 재확인 및 실제 파일 검증을 적용했습니다. 설정에서 Codex를 연결하면 해결되지 않는 팝업을 재촬영하며 자동 재시도합니다."
+  "installerUrl": "https://github.com/bomhan88-lang/hanbom-growth-app-updates/releases/download/v2.3.152/HanbomGrowth-Setup-2.3.152.exe",
+  "sha256": "1d1bb6b298d7004635dd72c0472a585272fa58eda3684d2d5f0c7ee5d505540b",
+  "installerSha256": "00738b794a4ead194aabaa85a7ff4939efd72a15f0bcd71fe70d0eb69b79c7cc",
+  "releaseNotes": "광고 완료 처리를 저장된 지점부터 이어 처리하고 서버 결과를 재확인합니다. Windows 설치파일의 필수 모듈 누락을 수정하고 패키지 검증을 추가했습니다."
 }
